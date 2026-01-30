@@ -1,9 +1,0 @@
-{
-  "name": "MarkhINT 0.1",
-  "description": "Strategic Intelligence Platform developed for advanced tactical synthesis, multimodal processing, and high-frequency live interactions.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone",
-    "geolocation"
-  ]
-}
